@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.pyc
+backend/inventory.db
+backend/inventory_backup.db
+.env
+frontend/test-results/
+frontend/playwright-report/
+firebase-service-account.json
+.env.*
+*firebase-adminsdk*.json
